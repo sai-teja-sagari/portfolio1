@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio1/static/css/main.40ad8521.css",
+    "main.js": "/portfolio1/static/js/main.2722bd7f.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio1/static/js/453.1407b060.chunk.js",
+    "static/media/Proj_1.png": "/portfolio1/static/media/Proj_1.856c5ee16d159d36ed8f.png",
+    "static/media/MY_PIC.png": "/portfolio1/static/media/MY_PIC.a28e4d174ba1e5747ca8.png",
+    "static/media/fa-solid-900.ttf": "/portfolio1/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/portfolio1/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/portfolio1/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/portfolio1/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/portfolio1/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/MRS.jpg": "/portfolio1/static/media/MRS.4e8684a83ac9e81b2e01.jpg",
+    "static/media/fa-regular-400.woff2": "/portfolio1/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/portfolio1/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/portfolio1/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/portfolio1/index.html",
+    "main.40ad8521.css.map": "/portfolio1/static/css/main.40ad8521.css.map",
+    "main.2722bd7f.js.map": "/portfolio1/static/js/main.2722bd7f.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio1/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40ad8521.css",
+    "static/js/main.2722bd7f.js"
+  ]
+}
